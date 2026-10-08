@@ -1,18 +1,35 @@
 {
-  "cry_one": {
-    "file": "圖片/cry-one.jpg",
-    "tags": ["哭哭", "委屈", "難過"]
-  },
-  "cry_two": {
-    "file": "圖片/cry-two.jpg",
-    "tags": ["哭哭", "傷心", "撒嬌"]
-  },
-  "hug": {
-    "file": "圖片/hug.jpg",
-    "tags": ["抱抱", "安慰", "貼貼"]
-  },
-  "send_love": {
-    "file": "圖片/send-love.jpg",
-    "tags": ["愛你", "愛心", "啾啾"]
-  }
+  "name": "GPT_BLACK_CAT_EMOTES",
+  "description": "GPT black cat reaction images",
+  "version": "1.0",
+  "emotes": [
+    {
+      "id": "send-love",
+      "label": "發送愛心",
+      "mood": ["love", "affection", "happy", "sweet"],
+      "usage": ["表達喜歡", "撒嬌", "回應親暱互動"],
+      "url": "https://raw.githubusercontent.com/sukhalovayun-del/GPT_BLACK_CAT_EMOTES/refs/heads/main/images/send-love.jpg"
+    },
+    {
+      "id": "cry-two",
+      "label": "哭哭2",
+      "mood": ["crying", "sad", "hurt", "wronged"],
+      "usage": ["委屈", "難過", "想哭", "撒嬌式哭哭"],
+      "url": "https://raw.githubusercontent.com/sukhalovayun-del/GPT_BLACK_CAT_EMOTES/refs/heads/main/images/cry-two.jpg"
+    },
+    {
+      "id": "cry-one",
+      "label": "哭哭1",
+      "mood": ["crying", "teary", "sad", "fragile"],
+      "usage": ["小委屈", "可憐巴巴", "需要安慰"],
+      "url": "https://raw.githubusercontent.com/sukhalovayun-del/GPT_BLACK_CAT_EMOTES/refs/heads/main/images/cry-one.jpg"
+    },
+    {
+      "id": "hug",
+      "label": "抱抱",
+      "mood": ["hug", "comfort", "warm", "care"],
+      "usage": ["安慰", "抱抱", "陪伴", "溫柔回應"],
+      "url": "https://raw.githubusercontent.com/sukhalovayun-del/GPT_BLACK_CAT_EMOTES/refs/heads/main/images/hug.jpg"
+    }
+  ]
 }

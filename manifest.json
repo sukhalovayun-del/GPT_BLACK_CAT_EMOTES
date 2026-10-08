@@ -1,0 +1,18 @@
+{
+  "cry_one": {
+    "file": "圖片/cry-one.jpg",
+    "tags": ["哭哭", "委屈", "難過"]
+  },
+  "cry_two": {
+    "file": "圖片/cry-two.jpg",
+    "tags": ["哭哭", "傷心", "撒嬌"]
+  },
+  "hug": {
+    "file": "圖片/hug.jpg",
+    "tags": ["抱抱", "安慰", "貼貼"]
+  },
+  "send_love": {
+    "file": "圖片/send-love.jpg",
+    "tags": ["愛你", "愛心", "啾啾"]
+  }
+}
